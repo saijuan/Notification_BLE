@@ -1,2 +1,1 @@
-# NotificationDemo
-呼叫通知Demo
+# Notification加上藍芽功能
